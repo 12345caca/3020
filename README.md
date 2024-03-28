@@ -1,0 +1,124 @@
+
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 9   | 9 канал Ⓨ      | [>](https://www.youtube.com/@israel9tv/live) | <img height="20" src="https://i.imgur.com/pttM3KQ.png"/> | Channel9.il |
+| 11  | כאן 11         | [>](https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png"/> | Kan11.il |
+| 12  | ערוץ 12        | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/788px-Keshet12_2018.svg.png"/> | Keshet12.il |
+| 13  | ערוץ 13        | [>](https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png"/> | Channel13.il |
+| 14  | ערוץ 14        | [>](https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8) | <img height="20" src="https://i.imgur.com/Iq2Kb69.png"/> | Now14.il |
+| 21  | The Shopping Channel | [>](https://shoppingil-rewriter.vidnt.com/index.m3u8) | <img height="20" src="https://i.imgur.com/PEdXHSE.png"/> | TheShoppingChannel.il |
+| 33  | مكان 33        | [>](https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png"/> | Makan33.il |
+| 99  | כאן חינוכית    | [>](https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png"/> | KanEducational.il |
+| 99  | Knesset        | [>](https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PEdXHSE.png"/> | Knesset.il |
+<h1>USA</h1>
+
+<h2>ATSC</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | Buzzr Ⓖ        | [>](https://buzzrota-web.amagi.tv/playlist480.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png"/> | Buzzr.us |
+| 2   | Retro TV       | [>](https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
+| 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://i.imgur.com/6ae9E8d.png"/> | Stadium.us |
+| 4   | Biz TV         | [>](https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> | BizTV.us |
+| 5   | Heartland      | [>](https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8) |  <img height="30" src="https://i.imgur.com/a67bbag.png" /> | HeartlandEastern.us |
+| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://i.imgur.com/VUhqVgG.png" /> | RevnTV.us |
+
+<h2>DVB-S</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | CNN            | [>](https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
+| 2   | CNBC Ⓨ         | [>](https://www.youtube.com/c/CNBC/live) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> | CNBC.us |
+| 3   | Bloomberg      | [>](https://bloomberg.com/media-manifest/streams/us.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
+| 4   | ABC News       | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
+| 5   | CBS News       | [>](https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
+| 6   | NBC News       | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
+| 7   | Reuters TV     | [>](https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> | ReutersTV.us |
+| 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
+| 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVMedia.us |
+
+<h2>Pluto</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | BBC Food   | [>](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/N3xiz4m.png"/> | BBCFood.us |
+| 2   | BBC Home   | [>](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/Ii8DX1x.png"/> | BBCHome.us |
+
+<h2>Other</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+|1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> | Docurama.us |
+|2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
+<h1>France</h1>
+
+<h2>Reliable feeds</h2>
+
+<p>These feeds are hosted by their TV channel, either on their website or their youtube channel. They're likely to continue to work well for a long period of time.</p>
+
+| #   | Channel    | Link  | Logo | EPG id |
+|:---:|:----------:|:-----:|:----:|:------:|
+| 7   | Arte Ⓖ     | [>](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> | ARTEFrench.fr |
+| 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
+| 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
+| 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
+| 14  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
+| 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
+| 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png"/> | Franceinfo.fr |
+| 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
+| 31  | Euronews Français Ⓨ    | [>](https://www.youtube.com/watch?v=NiRIbKwAejk) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
+| 21  | L'Équipe ⒹⒼ    | [>](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
+| 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> | FranceInter.fr |
+| 34  | CGTN Français | [>](https://news.cgtn.com/resource/live/french/cgtn-f.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNFrench.cn |
+
+<h2>DVB-S</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | TF1 | [>](http://livetv.ktv.zone/3/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
+| 2   | France 2 | [>](http://livetv.ktv.zone/104/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
+| 3   | France 3 | [>](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
+| 4   | France 4 | [>](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
+| 5   | France 5 | [>](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
+| 10  | TMC | [>](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
+| 11  | TFX | [>](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
+| 20  | TF1 Séries Films | [>](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
+| 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
+| 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
+| 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
+| 0   | RT France Ⓖ | [>](https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png"/> | RTFrance.fr |
+
+<h2>Unreliable (other)</h2>
+
+| #   | Channel    | Link  | Logo | EPG id |
+|:---:|:----------:|:-----:|:----:|:------:|
+| 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
+| 4   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
+| 15  | BFM TV     | [>](https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
+| 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
+| 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
+| 26  | LCI          | [>](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
+| 31  | Euronews Français | [x](https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 31  | Euronews Français | [>](https://euronews.alteox.app/hls/fr_stream.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+
+<h2>Unreliable (tntdirect)</h2>
+
+| #   | Channel    | Link  | Logo | EPG id |
+|:---:|:----------:|:-----:|:----:|:------:|
+| 1   | TF1        | [x](https://s13.tntendirect.com/tf1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
+| 2   | France 2   | [x](https://s13.tntendirect.com/france2/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> | France2.fr |
+| 3   | France 3   | [x](https://s13.tntendirect.com/france3/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> | France3.fr |
+| 5   | France 5   | [x](https://s13.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> | France5.fr |
+| 6   | M6         | [>](https://s13.tntendirect.com/m6/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
+| 8   | C8         | [x](https://s13.tntendirect.com/d8/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
+| 9   | W9         | [>](https://s13.tntendirect.com/w9/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
+| 10  | TMC        | [x](https://s13.tntendirect.com/tmc/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
+| 11  | TFX        | [x](https://s13.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
+| 12  | NRJ 12     | [x](https://s13.tntendirect.com/nrj12/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
+| 17  | CStar      | [>](https://s13.tntendirect.com/d17/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
+| 20  | TF1 Séries Films | [x](https://s13.tntendirect.com/hd1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
+| 21  | L'Équipe Ⓖ | [x](https://s13.tntendirect.com/lequipe21/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
+| 24  | RMC Découverte | [>](https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
+| 25  | Chérie 25  | [>](https://s13.tntendirect.com/cherie25/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
